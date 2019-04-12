@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ItineraryGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ItineraryGenerator_jar</output-path>
+    <root id="archive" name="ItineraryGenerator.jar">
+      <element id="module-output" name="ItineraryGenerator" />
+    </root>
+  </artifact>
+</component>
